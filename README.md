@@ -1,4 +1,4 @@
-CS:GO Console Launcher
+CS:GO Console Launcher (its on a C#)
 ======================
 
 📦 Описание
